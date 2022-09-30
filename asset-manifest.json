@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/react-Ecommerce/static/css/main.a79a9795.css",
+    "main.js": "/react-Ecommerce/static/js/main.941b81de.js",
+    "static/js/787.c1112931.chunk.js": "/react-Ecommerce/static/js/787.c1112931.chunk.js",
+    "static/media/cutdown_1_1080_1.mp4": "/react-Ecommerce/static/media/cutdown_1_1080_1.155b21ec7d2a5c5b0db7.mp4",
+    "static/media/fa-solid-900.ttf": "/react-Ecommerce/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/Background_grande.png": "/react-Ecommerce/static/media/Background_grande.c21e90171db4dd8f1288.png",
+    "static/media/fa-brands-400.ttf": "/react-Ecommerce/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/Backgrousnd_grande.png": "/react-Ecommerce/static/media/Backgrousnd_grande.fc43dd49cafed53eb76a.png",
+    "static/media/fa-solid-900.woff2": "/react-Ecommerce/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/Clisp_grande.png": "/react-Ecommerce/static/media/Clisp_grande.42dfb1634367fb98ed7f.png",
+    "static/media/Clip_grande.png": "/react-Ecommerce/static/media/Clip_grande.0bcef079cf88a4d2239a.png",
+    "static/media/xj_3gkQFD.png": "/react-Ecommerce/static/media/xj_3gkQFD.0e1579b620f9d0b5ad0e.png",
+    "static/media/curly_hair_girl-1.jpg": "/react-Ecommerce/static/media/curly_hair_girl-1.99c2f8661240dba1f17e.jpg",
+    "static/media/9448927F-468A-4DCA-B304-01A8282EBEEE_1944x.jpg": "/react-Ecommerce/static/media/9448927F-468A-4DCA-B304-01A8282EBEEE_1944x.147a88cdda534029b07b.jpg",
+    "static/media/inner.jpg": "/react-Ecommerce/static/media/inner.e8b0f43cc0ee97760ff1.jpg",
+    "static/media/fa-brands-400.woff2": "/react-Ecommerce/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/LENNY_JACKET_BW_4_1080x.webp": "/react-Ecommerce/static/media/LENNY_JACKET_BW_4_1080x.e2ea1ce9af17388a7fea.webp",
+    "static/media/220122_MARLE_SUMMER_14_0623_1944x.jpg": "/react-Ecommerce/static/media/220122_MARLE_SUMMER_14_0623_1944x.d5faa0da03dde9aaeb86.jpg",
+    "static/media/curly_hair_white-1.jpg": "/react-Ecommerce/static/media/curly_hair_white-1.2b6faea888ad6ecae246.jpg",
+    "static/media/IMG_grande.webp": "/react-Ecommerce/static/media/IMG_grande.2d0e56a708a93a6c918c.webp",
+    "static/media/fa-regular-400.ttf": "/react-Ecommerce/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/monigote.jpg": "/react-Ecommerce/static/media/monigote.33b30878d4510454e2d7.jpg",
+    "static/media/notfound.jpg": "/react-Ecommerce/static/media/notfound.a5f8bbce62a855ece2e1.jpg",
+    "static/media/fa-regular-400.woff2": "/react-Ecommerce/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/fa-v4compatibility.ttf": "/react-Ecommerce/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/react-Ecommerce/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "static/media/slick.svg": "/react-Ecommerce/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-Ecommerce/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-Ecommerce/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-Ecommerce/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-Ecommerce/index.html",
+    "main.a79a9795.css.map": "/react-Ecommerce/static/css/main.a79a9795.css.map",
+    "main.941b81de.js.map": "/react-Ecommerce/static/js/main.941b81de.js.map",
+    "787.c1112931.chunk.js.map": "/react-Ecommerce/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a79a9795.css",
+    "static/js/main.941b81de.js"
+  ]
+}
