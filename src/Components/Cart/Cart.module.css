@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,700&display=swap');
+.cartPage{
+    background-color: #fdf9f5;
+}
+.cartHead{
+    font-size: 50px !important;
+    font-family: 'Playfair Display', serif !important;
+}
+.imgCart{
+    width: 10% !important;
+    height: 10% !important;
+}
+@media (max-width:768px) {
+    .imgCart{
+        width: 45% !important;
+        height: 45% !important;
+    }
+}
+.cartIcon{
+    font-size: 100px !important;
+}
+.emptyBtn{
+    background-color: #caafa8 !important;
+    color: white !important;
+    text-decoration: none !important;
+}
+.orderBtn{
+    background-color: #caafa8 !important;
+    border: 1px solid #caafa8 !important;
+    color: white !important;
+}

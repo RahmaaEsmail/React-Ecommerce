@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+/*start slider */
+.slider{
+    position: relative;
+}
+.sliderTxt{
+    position: absolute;
+    bottom: 20%;
+    left: 10%;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 70px !important;
+}
+.paragraphSlider{
+    font-size: 30px!important;
+    color:  white !important;
+}
+.carouselIndicators [data-bs-target]
+{
+     width: 15px !important;
+     height:  15px !important;
+     border-radius: 50%;
+}
+
+/* end of slider */
+
+/* start text  */
+.Txt{
+    background-color:#fdf9f5 ;
+}
+.paragraphTxt{
+    font-size: 30px !important;
+}
+/* end of text */
+
+/*start info about product */
+.infoTxtHeader{
+    font-family: 'Playfair Display', serif;
+    font-size: 50px !important;
+    color: #caafa8;
+}
+.infoTxtHeaderParagraph{
+    color: #caafa8;
+}
+.aboutItem
+{
+    background-color:#f0e9e3 !important;
+    border-radius: 20px;
+}
+
+.itemImg{
+    max-height: 100% !important;
+    width: 100% !important;
+    object-fit: cover;
+    transition: all 0.5s;
+}
+
+.cardImgTop{
+    width: 100% !important;
+    height: 25vw !important;
+}
+.cardHeader{
+    background-color: #caafa8 !important;
+}
+.btnColor{
+   color: #caafa8 !important;
+}
+/* end info about product */
+
+/*start about */
+.about{
+    background-color:  #fdf9f5;
+}
+.aboutHeader{
+    font-family:'Playfair Display', serif ;
+    font-size: 50px !important;
+}
+/*end about  */
+
+/* start category */
+.categoryHeader{
+    font-size: 50px !important;
+    font-weight: bold;
+}
+.itemCategory{
+    border: 1px solid #caafa8 !important;
+    border-radius: 20px ;
+}
+.clothIcon{
+    color: #caafa8 !important;
+}
+.clothTxt{
+    color: #caafa8;
+    text-align: center;
+    font-size: 20px !important;
+}
+/* end category */

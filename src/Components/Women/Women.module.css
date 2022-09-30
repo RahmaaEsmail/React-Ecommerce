@@ -1,0 +1,31 @@
+.itemImg{
+    max-height: 100% !important;
+    width: 100% !important;
+    object-fit: cover;
+    transition: all 0.5s;
+}
+
+.cardImgTop{
+    width: 100% !important;
+    height: 45vw !important; 
+}
+@media  (max-width:768px) {
+    .cardImgTop{
+        width: 140% !important;
+        height: 50vh !important; 
+    }
+}
+.cardHeader{
+    background-color: #caafa8 !important;
+}
+.btnColor{
+   color: #caafa8 !important;
+}
+.title{
+    color: #caafa8;
+    font-size: 50px;
+}
+.loading{
+    color: #caafa8 !important;
+    font-size: 100px !important;
+}

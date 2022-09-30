@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');
+.bgNavbar{
+    background-color: #caafa8 !important;
+}
+.logoTxt{
+    font-size: 45px !important;
+    font-family: 'Dancing Script', cursive;
+
+}
+.toggleIcon{
+    background-image: none;
+}
+.navbarToggler:focus{
+    box-shadow: 0 0 0 0 !important;
+}
+.linkFont{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: bold;
+    font-size: 20px !important;
+}
+.nameFont{
+    background-color: white !important;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    color: #caafa8 !important;
+    font-size: 20px !important;
+    font-weight: bold;
+}
+.cart{
+    position: relative;
+}
+@media (max-width:768px) {
+    .cart{
+        width: 50%;
+        margin: auto;
+    }
+}
+.badge{
+    background-color: white !important;
+    color: #caafa8 !important;
+}
+.numberBadge{
+    position: absolute;
+    right: 0;
+    bottom: 15px;
+    left: 70%;
+}
+@media (max-width:768px) {
+    .numberBadge{
+        position: absolute;
+        bottom:8px;
+        left: 53%;
+    } 
+}

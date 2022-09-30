@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,700&display=swap');
+.registerPage{
+    background-color: #caafa8;
+}
+.registerTitle{
+    font-family: 'Playfair Display', serif;
+    font-size: 50px !important;
+}
+label{
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
+.registerBtn{
+    color: #caafa8 !important;
+    background-color: white !important;
+    font-weight: bold;
+}
