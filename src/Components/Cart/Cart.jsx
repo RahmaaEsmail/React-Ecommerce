@@ -62,8 +62,8 @@ export default function Cart() {
                 <th></th>
                 <th>Name</th>
                 <th>Price</th>
-                <th>Quantity</th>
-                <th></th>
+                {/* <th>Quantity</th>
+                <th></th> */}
                 <th>Total</th>
                 <th></th>
               </thead>
@@ -81,7 +81,7 @@ export default function Cart() {
                       <span>{item.title}</span>
                     </td>
                     <td>${item.price}</td>
-                    <td colSpan={2}>
+                    {/* <td colSpan={2}>
                       <span>{count}</span>
                       <button
                         onClick={()=>increaseCount(item,index)}
@@ -89,8 +89,8 @@ export default function Cart() {
                       >
                         +
                       </button>
-                    </td>
-                    <td colSpan={2}>${count * item.price}</td>
+                    </td> */}
+                    <td colSpan={2}>${ item.price}</td>
 
                     <td onClick={() => DeleteItem(index)}>
                     <i  className="fa-solid text-danger fa-trash-can"></i>                     
